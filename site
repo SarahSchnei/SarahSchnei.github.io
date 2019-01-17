@@ -1,5 +1,0 @@
-$ git init
-$ git add .
-$ git remote add origin git@github.com:sarahschnei\sarahschnei.github.io.git
-    (where username is your username)
-$ git push -u origin master
